@@ -3,10 +3,10 @@ clear all;
 % MAIN PARAMETERS
 %%%%%%%%%%%%%%%%%%%%%
 
-% INPUT FOLDER should contain .txt files with 3 columns:
-% 1)-2) x and y coordinates
-% 3) intensity values
-
+% INPUT FOLDER should contain .txt files exported from ImageJ
+% with 2 columns: 
+% 1) distance along the axon in pixels
+% 2) intensity values
 
 %number of averaging points for smoothing. 
 % bigger values correspond to more smoothing 
