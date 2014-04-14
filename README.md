@@ -16,5 +16,5 @@ Includes three modules:
 Also includes <a href="http://www.mathworks.nl/matlabcentral/fileexchange/209-padadd/content/padadd.m">padadd</a> routine by Dave Johnson.
 
 <hr />
-Developed in <a href="http://www.cellbiology.nl/"> Cell Biology group</a> of Utrecht University. 
-Write an e-mail <a href="mailto:y.katrukha@uu.nl">for any questions</a>.
+Developed in <a href="http://cellbiology.science.uu.nl/"> Cell Biology group</a> of Utrecht University. 
+E-mail <a href="mailto:katpyxa@gmail.com">for any questions</a>.
